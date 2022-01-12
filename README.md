@@ -1,5 +1,7 @@
 # Notes and Learning Resources 
 
+## BigData
+* [Data Pipelines](https://data-pipeline.playbook.ee/) - Equal Experts Playbook
 
 ## Data Compression 
 * [Understanding Zlib](https://www.euccas.me/zlib/#introduction)
